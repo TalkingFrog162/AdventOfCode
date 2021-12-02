@@ -18,8 +18,9 @@ namespace PuzzleSolutions.Y2021
                 {
                     increased += 1;
                 }
-
+                
             }
+            Console.WriteLine(increased);
             return "I Haven't Solved part 1 yet!";
         }
 
